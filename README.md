@@ -4,8 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B16,45:5425A8,100:00E5FF&text=LEELA%20KRISHNA%20KURRA&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=EXPLORE%20%2F%20ANALYZE%20%2F%20BUILD&descSize=15&descAlignY=58&descColor=00E5FF" width="100%" alt="Animated cyberpunk banner"/>
 
-<br/>
-
 ---
 
 **B.Tech CSE (Cyber Security) | VIT Vellore**
