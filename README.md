@@ -21,5 +21,5 @@
 ---
 
 <p align="center">
-  <i>Explore. Analyze. Build. Repeat.</i>
+  <i>Explore. Analyze. Build.</i>
 </p>
