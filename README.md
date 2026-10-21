@@ -1,7 +1,7 @@
 
 # Hi, I'm Leela Krishna Kurra 
 
-### Cybersecurity | Software Development
+### `root@leela:~$ explore • analyze • build` 
 
 ## About Me
 
