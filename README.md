@@ -21,24 +21,6 @@
 ## `01 // SYSTEM INTRODUCTION`
 
 ```text
-root@leela:~$ whoami
-
-Leela Krishna Kurra
-Third-year B.Tech CSE (Cyber Security)
-VIT Vellore
-
-root@leela:~$ interests --list
-
-[+] Cybersecurity & Network Analysis
-[+] Software & Web Development
-[+] Practical Projects & Problem Solving
-[+] Exploring Systems, Learning & Building
-
-root@leela:~$ status
-
-[*] Learning. Experimenting. Building.
-```
-
 I'm a third-year Computer Science student at **VIT Vellore**, interested in cybersecurity, software development, and building practical projects. I enjoy exploring how systems work, analyzing problems, and turning ideas into working applications.
 
 ---
