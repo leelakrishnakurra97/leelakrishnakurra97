@@ -1,5 +1,5 @@
 
-# Hi, I'm Leela Krishna Kurra 👋
+# Hi, I'm Leela Krishna Kurra 
 
 ### Cybersecurity | Software Development
 
