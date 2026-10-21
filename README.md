@@ -1,3 +1,9 @@
+
+<h1 align="left">
+  LEELA KRISHNA <span style="color:#00F7FF">KURRA</span>
+</h1>
+
+
 <p>
   <a href="https://github.com/leelakrishnakurra97">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00F7FF&background=0D111700&center=false&vCenter=true&width=650&height=45&lines=root%40leela%3A~%24+explore+%E2%80%A2+analyze+%E2%80%A2+build;root%40leela%3A~%24+scan+%E2%80%A2+detect+%E2%80%A2+secure;root%40leela%3A~%24+code+%E2%80%A2+debug+%E2%80%A2+deploy" alt="Typing animation"/>
