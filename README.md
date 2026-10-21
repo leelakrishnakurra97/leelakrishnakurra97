@@ -1,8 +1,10 @@
 
 
+
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=1200&color=00F7FF&vCenter=true&width=650&height=60&lines=LEELA+KRISHNA+KURRA;EXPLORE.+ANALYZE.+BUILD." alt="Leela Krishna Kurra"/>
+  LEELA KRISHNA <span style="color:#00F7FF">KURRA</span>
 </h1>
+
 
 
 
