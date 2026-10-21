@@ -9,13 +9,7 @@
 - 💻 Interested in cybersecurity, software development, and building practical projects.
 - 🚀 Working on projects involving network traffic analysis, web applications, and game development.
 - 📫 Contact: [Email](mailto:leelakrishna.kurra7@gmail.com)
-
-## Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leelakrishnakurra97.github.io/leela-krishna-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leela-krishna-kurra/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leelakrishnakurra97)
-
+  
 ## Tech Stack & Tools
 
 <p align="left">
