@@ -7,7 +7,7 @@
 
 - 🎓 Third-year B.Tech CSE (Cyber Security) student at VIT Vellore.
 - 💻 Interested in cybersecurity, software development, and building practical projects.
-- 🚀 Working on projects involving network traffic analysis, web applications, and game development.
+- 🚀 Working on projects involving Cyber Security and web applications.
 - 📬 Contact: [Email](mailto:leelakrishna.kurra7@gmail.com)
 
 ## Tech Stack & Tools
