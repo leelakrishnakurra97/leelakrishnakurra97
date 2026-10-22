@@ -6,7 +6,7 @@
 <p>
 Check out my projects . I hope you will find them useful...
 
-If you want any information relating to the project you can mail me ...
+If you want any information relating to the project you can mail me ..
 </p>
 
 ## About Me
