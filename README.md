@@ -26,7 +26,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css,react&perline=9" alt="Programming languages and frontend technologies"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,git,github,docker,linux&perline=9" alt="Backend technologies, databases, and tools"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,git,github,docker&perline=9" alt="Backend technologies, databases, and tools"/>
 </p>
 
 ---
