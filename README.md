@@ -16,7 +16,7 @@
 ## Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,react,nodejs,express,fastapi,postgres,mysql,linux,git,github,aws,azure&perline=9" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,react,nodejs,express,fastapi,postgres,mysql,linux&perline=9" alt="Tech Stack"/>
 </p>
 
 ---
