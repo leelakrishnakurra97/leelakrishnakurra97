@@ -22,4 +22,4 @@ If you want any information relating to the projects you can mail me ..
 <br>
 <br>
 
-<p>Good things takes time stay motivated and build it correctly how to intented to build it .</p>
+<p>Good things takes time stay motivated and build it correctly how you intented to build it .</p>
