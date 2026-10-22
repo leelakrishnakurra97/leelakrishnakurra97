@@ -22,7 +22,7 @@ If you need any information about my projects, you can email me..
 <br>
 <br>
 
-## Skills
+## Tech Stack & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,react,nodejs,express,fastapi,postgres,mysql,linux,git,github,aws,azure,vscode" />
