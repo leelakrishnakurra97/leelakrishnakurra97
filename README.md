@@ -28,5 +28,4 @@ If you want any information relating to the project you can mail me ..
 
 ---
 
-
-    Good things takes time stay motivated and build it correctly how to intented to build it .
+<p>Good things takes time stay motivated and build it correctly how to intented to build it .</p>
