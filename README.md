@@ -13,10 +13,10 @@
 
 ## About Me
 
--Third-year B.Tech CSE (Cyber Security) student at VIT Vellore.
--Interested in cybersecurity, software development, and building practical projects.
--Working on projects involving Cyber Security and web applications.
--Contact: [Email](mailto:leelakrishna.kurra7@gmail.com)
+-Third-year B.Tech CSE (Cyber Security) student at VIT Vellore.<br>
+-Interested in cybersecurity, software development, and building practical projects.<br>
+-Working on projects involving Cyber Security and web applications.<br>
+-Contact: [Email](mailto:leelakrishna.kurra7@gmail.com)<br>
 
 ## Tech Stack & Tools
 
