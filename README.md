@@ -23,7 +23,10 @@ If you want any information relating to the project you can mail me ..
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css,react&perline=9" alt="Programming languages and frontend technologies"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,git,github,docker&perline=9" alt="Backend technologies, databases, and tools"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,docker&perline=9" alt="Backend technologies, databases, and tools"/>
 </p>
 
 ---
+
+
+    Good things takes time stay motivated and build it correctly how to intented to build it .....
