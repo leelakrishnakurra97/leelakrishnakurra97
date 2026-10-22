@@ -22,4 +22,10 @@ If you need any information about my projects, you can email me..
 <br>
 <br>
 
-<p>Good things takes time stay motivated and build it correctly how you intented to build it .</p>
+## Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,react,nodejs,express,fastapi,postgres,mysql,linux,git,github,aws,azure,vscode" />
+</p>
+
+
