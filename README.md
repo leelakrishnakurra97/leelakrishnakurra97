@@ -19,9 +19,6 @@ If you need any information about my projects, you can email me..
 -Contact: [Email](mailto:leelakrishna.kurra7@gmail.com) <span> (Use this email for communication)  <br> 
 
 
-<br>
-<br>
-
 ## Tech Stack & Tools
 
 <p align="left">
