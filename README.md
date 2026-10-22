@@ -20,7 +20,3 @@
 </p>
 
 ---
-
-<p align="left">
-  <i>Explore. Analyze. Build. Repeat.</i>
-</p>
