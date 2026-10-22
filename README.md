@@ -18,8 +18,6 @@ Check out my projects . I hope you will find them useful...
 
 ## Tech Stack & Tools
 
-<p> This are the Tech Stack and Tools which I used to build my projects .</p>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css,react&perline=9" alt="Programming languages and frontend technologies"/>
   <br/>
