@@ -6,7 +6,7 @@
 </h1>
 
 <p>
-Check out my projects . I hope you will find the useful 🤞
+Check out my projects . I hope you will find them useful 🤞
 </p>
 
 ## About Me
